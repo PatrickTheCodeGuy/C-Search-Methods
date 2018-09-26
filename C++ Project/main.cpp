@@ -15,7 +15,7 @@
 
 using namespace std;
 
-// shows menu for switch statement author: James Martin
+// shows menu for switch statement 
 void displayMenu()
 {
 	cout << "A - Add new record" << endl;
@@ -28,13 +28,13 @@ void displayMenu()
 
 }
 
-//function to pass to BST traversal to print author : James Martin
+//function to pass to BST traversal to print 
 void display(Record* & aRecord)
 {
 	cout << *aRecord;
 }
 
-// create a new record from user input author: James Martin
+// create a new record from user input 
 Record  *createRecord()
 {
 	Record *tempRec = new Record();

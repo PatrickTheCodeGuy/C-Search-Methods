@@ -1,6 +1,5 @@
 // Binary Search Tree ADT
-// Created by Frank M. Carrano and Tim Henry.
-// Modified by: James Martin
+
  
 #ifndef _BINARY_SEARCH_TREE
 #define _BINARY_SEARCH_TREE
@@ -27,7 +26,7 @@ private:
 	// search for target node
 	BinaryNode<ItemType>* findNode(BinaryNode<ItemType>* treePtr, const ItemType & target) const;
 
-	//print all nodes matching target string author: James Martin
+	//print all nodes matching target string
 	bool _printNodes(BinaryNode<ItemType>* treePtr, const string & target) const;
    
 public:  
@@ -47,7 +46,7 @@ public:
 
 ///////////////////////// public function definitions ///////////////////////////
 //this function will insert a record into the tree sorted by secondary key(artist) 
-//author: James Martin
+
 template<class ItemType>
 bool BinarySearchTree<ItemType>::insert(const ItemType & newEntry)
 {
@@ -56,7 +55,7 @@ bool BinarySearchTree<ItemType>::insert(const ItemType & newEntry)
 	return true;
 } 
 
-//used for inserting a record into the tree by primary key(record number) author: James Martin
+//used for inserting a record into the tree by primary key(record number) 
 template<class ItemType>
 bool BinarySearchTree<ItemType>::insertByNumber(const ItemType & newEntry)
 {

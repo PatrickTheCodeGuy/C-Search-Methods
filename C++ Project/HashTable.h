@@ -1,6 +1,6 @@
 /*
 HashTable.h
- Author: James Martin & Tiffany Verner
+
  
  Class for the hash table. 
  This class creates a hash table by dynamically allocating an array of Records. The size of the array

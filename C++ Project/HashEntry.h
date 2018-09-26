@@ -1,6 +1,6 @@
 /*
  Hash Entry class
- Author:  Tiffany Verner
+
  
  The hash table will be made of an array of hash entries.
  Each instance of the HashEntry class has a Record and a flag.

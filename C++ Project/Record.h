@@ -1,6 +1,5 @@
 /*
  Record.h
- Author: Tiffany Verner
  
  Class for record data that will be inserted into hash table and BSTs
  Each record instancce has 5 variables which hold the record number (primary key), the artist (secondary key),

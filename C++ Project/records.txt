@@ -1,0 +1,25 @@
+1001,Hotel California,The Eagles,1976,Rock
+1002,Houses of The Holy,Led Zepplin,1973,Rock
+1003,Crystal Ball,Styx,1976,Rock
+1004,Dark Side of the Moon,Pink Floyd, 1973,Rock
+1005,Kind of Blue,Miles Davis,1959,Jazz
+1006,Wish You Were Here,Pink Floyd,1975,Rock
+1007,Bitches Brew,Miles Davis,1970,Jazz
+1008,Reputation,Taylor Swift,2017,Pop
+1009,Yeezus,Kanye West,2013,Rap
+1010,The Life of Pablo,Kanye West,2016,Rap
+1011,Graduation,Kanye West,2007,Rap
+1012,1989,Taylor Swift,2014,Pop
+1013,Red,Taylor Swift,2012,Pop
+1014,In a Silent Way,Miles Davis,1969,Jazz
+1015,Sketches of Spain,Miles Davis,1960,Jazz
+1016,Tutu,Mile Davis,1986,Jazz
+1017,The Wall,Pink Floyd,1979,Rock
+1016,Animals,Pink Floyd,1977,Rock
+1019,Physical Graffiti,Led Zepplin,1975,Rock
+1020,In Through the Out Door,Led Zepplin,1979
+1021,Houses of the Holy,Led Zepplin,1973,Rock
+1022,I'm Wide Awake It's Morning,Bright Eyes,2005,Folk
+1023,Stardust,Willie Nelson,1978,Country
+1024,Pancho and Lefty,Willie Nelson,1986,Country
+1025,God's Problem Child,Willie Nelson,2017,Country
